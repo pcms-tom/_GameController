@@ -4,9 +4,9 @@
   goalkeeperColors: [blue, yellow, black, white, green, orange, purple, brown, gray, red]
 - name: PCMS-1
   number: 1
-  fieldPlayerColors: [red]
-  goalkeeperColors: [blue]
+  fieldPlayerColors: [red, blue]
+  goalkeeperColors: [blue, red]
 - name: PCMS-2
   number: 2
-  fieldPlayerColors: [black]
-  goalkeeperColors: [white]
+  fieldPlayerColors: [black, white]
+  goalkeeperColors: [white, black]

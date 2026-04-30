@@ -8,5 +8,5 @@
   goalkeeperColors: [blue, red]
 - name: PCMS-2
   number: 2
-  fieldPlayerColors: [black, white]
-  goalkeeperColors: [white, black]
+  fieldPlayerColors: [yellow, green]
+  goalkeeperColors: [green, yellow]
